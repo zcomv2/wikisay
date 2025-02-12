@@ -6,10 +6,10 @@ import wikipediaapi
 SERVER = "irc.libera.chat"
 PORT = 6667
 NICK = "Wikisay"
-CHANNEL = "#VoxAssist"
+CHANNEL = "#parati"
 
 # Especificar un User-Agent válido
-USER_AGENT = "WikisayBot/1.0 (https://lab.psy-k.org/)"
+USER_AGENT = "WikisayBot/1.0 (https://your_domain.org/)"
 
 # Inicializar Wikipedia en varios idiomas con el User-Agent correcto
 wiki_langs = {
