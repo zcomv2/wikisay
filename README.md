@@ -16,3 +16,9 @@ WikiSay is an IRC bot that allows users to search for information on Wikipedia i
 ✅ User-Agent Compliance (ensures proper API requests to Wikipedia).
 
 ✅ Runs in Background using pm2 for stability.
+
+🛠️ Installation
+
+1️⃣ Install Required Dependencies
+
+Make sure you have Python 3.7+ installed and install the required libraries:
