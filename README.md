@@ -106,3 +106,6 @@ Improve error handling for API failures.
 Allow direct message queries (/msg Wikisay !wiki-es ...).
 
 Implement rate-limiting to prevent spam.
+
+🚀 Now you're ready to deploy WikiSay in any IRC channel! 🚀
+
